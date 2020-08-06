@@ -1,2 +1,2 @@
-/usr/bin/bash: wq: command not found
+This line was added by mistake.
 Test repository for training purpose.
