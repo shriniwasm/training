@@ -1,3 +1,4 @@
 Sample file
-for pushing the changes in github
+for pushing the changes in github.
+Another user added a line here.
 
